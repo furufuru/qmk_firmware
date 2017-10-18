@@ -1,4 +1,4 @@
-#include "dz40_ortho.h"
+#include "niu_mini.h"
 #define MODS_CTRL_MASK  (MOD_BIT(KC_LSHIFT)|MOD_BIT(KC_RSHIFT))
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
